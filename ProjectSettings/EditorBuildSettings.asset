@@ -1,0 +1,530 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cena1.unity
+    guid: 7d57d175454de3244a710d4d1cea97c2
+  - enabled: 1
+    path: Assets/Scenes/Cena2.unity
+    guid: 2a16f3fbd0bfad349af812356f62b6a5
+  - enabled: 1
+    path: Assets/Scenes/Cena3.unity
+    guid: a17c58015566c0543a018feb6af3a381
+  - enabled: 1
+    path: Assets/Scenes/Cena4.unity
+    guid: 39e68e3ce58556040bcac78d7abf6ee2
+  - enabled: 1
+    path: Assets/Scenes/Cena16agua.unity
+    guid: e09ec506f5afa7d49a2c56cac884fa9e
+  - enabled: 1
+    path: Assets/Scenes/Cena16dinheiro.unity
+    guid: f69d01c7c525a3046a40843c545a9fc6
+  - enabled: 1
+    path: Assets/Scenes/Cena16informacao.unity
+    guid: 1f8fe5d76af3591459b97f835405ff25
+  - enabled: 1
+    path: Assets/Scenes/Cena30agua.unity
+    guid: 713f465bc49c4c74a86f2e47e32cf8cd
+  - enabled: 1
+    path: Assets/Scenes/PrimeiraTela.unity
+    guid: d35a071a52872e54a9da6271c24560f1
+  - enabled: 1
+    path: Assets/Scenes/Cena50informacaoComComida.unity
+    guid: 35b331664eb392e46a9f2a5d65a38880
+  - enabled: 1
+    path: Assets/Scenes/Cena50informacaoSemComida.unity
+    guid: 42505e7447bc0854293fe76c6c512d3e
+  - enabled: 1
+    path: Assets/Scenes/Cena57.unity
+    guid: c2e4862f1f8014c41b742224fd935cc8
+  - enabled: 1
+    path: Assets/Scenes/Cena57informacaoSemComida.unity
+    guid: 35d72b115f39a964eaadc9ed1f6496b9
+  - enabled: 1
+    path: Assets/Scenes/Cena63informacao.unity
+    guid: e41e593b9c6317846a443c9340037b30
+  - enabled: 1
+    path: Assets/Scenes/Cena65.unity
+    guid: 47e2d88db9b93e341a47f18497cdd982
+  - enabled: 1
+    path: Assets/Scenes/Cena66quartel.unity
+    guid: 6dbb1cc529ad389489f8db29b159d037
+  - enabled: 1
+    path: Assets/Scenes/Cena67quartel.unity
+    guid: 9c8f388029830b049b55ec65e8d3523f
+  - enabled: 1
+    path: Assets/Scenes/Cena71agua.unity
+    guid: 1892b6e00db11234a91b062731a36540
+  - enabled: 1
+    path: Assets/Scenes/Cena86dinheiro.unity
+    guid: a128d824788dfce41b14dd61eb295928
+  - enabled: 1
+    path: Assets/Scenes/Cena86informacaoComComida.unity
+    guid: d6b9d8e9d09a7bb4eb1df974c51cb7f0
+  - enabled: 1
+    path: Assets/Scenes/Cena86informacaoSemComida.unity
+    guid: 2aea729661dbf554c91ceef0620ca311
+  - enabled: 1
+    path: Assets/Scenes/Cena95dinheiro.unity
+    guid: 5e8a39fd85685d44a8550d21a71a7c94
+  - enabled: 1
+    path: Assets/Scenes/Cena95informacaoComComida.unity
+    guid: 56a9716ace61c5f4f83a162d89bae8bf
+  - enabled: 1
+    path: Assets/Scenes/Cena95informacaoSemComida.unity
+    guid: 002f08532a98b7a4db97c75c78f75a9a
+  - enabled: 1
+    path: Assets/Scenes/Cena95quartel.unity
+    guid: af41d4d42a1e73d4ba3e7ca7378b1671
+  - enabled: 1
+    path: Assets/Scenes/Cena105.unity
+    guid: c5df7ae834800d046b2c96518695e6a1
+  - enabled: 1
+    path: Assets/Scenes/Cena111.unity
+    guid: 4c609d28c85f621449564fbe42b2cda3
+  - enabled: 1
+    path: Assets/Scenes/Cena119.unity
+    guid: e9af85f972e45004c880377d313dd94e
+  - enabled: 1
+    path: Assets/Scenes/Cena123informacaoComComida.unity
+    guid: f84cc02de3b0c304287c91757669a325
+  - enabled: 1
+    path: Assets/Scenes/Cena124dinheiro.unity
+    guid: 76f6a797fd680be4898364e9f661a459
+  - enabled: 1
+    path: Assets/Scenes/Cena124informacaoSemComida.unity
+    guid: 3711d1a45a29a054b879875dcfc5ca48
+  - enabled: 1
+    path: Assets/Scenes/Cena30dinheiro.unity
+    guid: 0ef2f9360fbbeb341a6b8d6eaf3112ac
+  - enabled: 1
+    path: Assets/Scenes/Cena30informacao.unity
+    guid: d959af01edbb2a245bed4ecbab3c9fe6
+  - enabled: 1
+    path: Assets/Scenes/Cena31.unity
+    guid: a1f9125530232b446a6690ef4bf1eca1
+  - enabled: 1
+    path: Assets/Scenes/Cena32.unity
+    guid: 5441caf962b00b24da1178e10ad95b10
+  - enabled: 1
+    path: Assets/Scenes/Cena33.unity
+    guid: 6b164a2fcfe59fd479d05fd765d6b35b
+  - enabled: 1
+    path: Assets/Scenes/Cena34.unity
+    guid: 2005f2efd9ef3744ca2eac032111bb26
+  - enabled: 1
+    path: Assets/Scenes/Cena35.unity
+    guid: edce9e27120fa5547b8f4b4db5bd1088
+  - enabled: 1
+    path: Assets/Scenes/Cena36.unity
+    guid: 5077b97b074698e4ca48b32aab0d6eba
+  - enabled: 1
+    path: Assets/Scenes/Cena37.unity
+    guid: 2e017b1f9e5ee334ab53542da3d90b8b
+  - enabled: 1
+    path: Assets/Scenes/Cena38.unity
+    guid: 8b1fcc0601e32a744a5b1cc6384d1b0c
+  - enabled: 1
+    path: Assets/Scenes/Cena39.unity
+    guid: 6a2e86be474d4444cb2edd4af0919b34
+  - enabled: 1
+    path: Assets/Scenes/Cena40.unity
+    guid: 88cce3cb3f87f7c41ae2134a704463d1
+  - enabled: 1
+    path: Assets/Scenes/Cena41.unity
+    guid: 0b49afdb56854ad4d8fbc489a725ca47
+  - enabled: 1
+    path: Assets/Scenes/Cena42.unity
+    guid: b17a3a693e5be304bb70219b1e364ed3
+  - enabled: 1
+    path: Assets/Scenes/Cena43.unity
+    guid: b5c3d1eb5c2958a47a64e9f17903338c
+  - enabled: 1
+    path: Assets/Scenes/Cena44.unity
+    guid: 6c19eccf31255fc428ae461633ddfa49
+  - enabled: 1
+    path: Assets/Scenes/Cena45informacaoComComida.unity
+    guid: 57f15c043de639248b80a8611c3687d9
+  - enabled: 1
+    path: Assets/Scenes/Cena45informacaoSemComida.unity
+    guid: 41a828f273e86e643b62785d965bb572
+  - enabled: 1
+    path: Assets/Scenes/Cena47.unity
+    guid: badd2c987718b16488e75dabd58048fa
+  - enabled: 1
+    path: Assets/Scenes/Cena48.unity
+    guid: 3b2bb5f109ad4c74aa9959cdab087531
+  - enabled: 1
+    path: Assets/Scenes/Cena49informacaoComComida.unity
+    guid: 234337a6fa110a94f8ad8f0b9f4b96db
+  - enabled: 1
+    path: Assets/Scenes/Cena49informacaoSemComida.unity
+    guid: 69341d926eb5b914dbb8e0b88b28005a
+  - enabled: 1
+    path: Assets/Scenes/Cena53.unity
+    guid: c58070f56b8e7924ea7aae4b65136dc4
+  - enabled: 1
+    path: Assets/Scenes/Cena54.unity
+    guid: 89bd8c67cb3796143b9705f595663575
+  - enabled: 1
+    path: Assets/Scenes/Cena55.unity
+    guid: b2000de6321c08f45bbb410d6be03752
+  - enabled: 1
+    path: Assets/Scenes/Cena56.unity
+    guid: c7de822e653d20741a20e0ea4bc20eee
+  - enabled: 1
+    path: Assets/Scenes/Cena57informacaoHospitalComComida.unity
+    guid: 94283bd4030f0e146bac77895d0feac0
+  - enabled: 1
+    path: Assets/Scenes/Cena57informacaoHospitalSemComida.unity
+    guid: 1d06efeec984fd34cbe0db7ffcfe6cf4
+  - enabled: 1
+    path: Assets/Scenes/Cena57informacaoQuartelComComida.unity
+    guid: aa06e6c0ca6ad5d4b8b641e1652564c4
+  - enabled: 1
+    path: Assets/Scenes/Cena57informacaoQuartelSemComida.unity
+    guid: 18394cc752beed44b94176f6440c4dcb
+  - enabled: 1
+    path: Assets/Scenes/Cena58informacaoComComida.unity
+    guid: 5e5a1a02bccfa524084b02fe696b3c3b
+  - enabled: 1
+    path: Assets/Scenes/Cena58informacaoSemComida.unity
+    guid: b9b5b07af9a556d4bb3f92130e7eb56a
+  - enabled: 1
+    path: Assets/Scenes/Cena59informacaoComComida.unity
+    guid: 0d7018ec2552c0449ae29c27434a0165
+  - enabled: 1
+    path: Assets/Scenes/Cena59informacaoSemComida.unity
+    guid: 4d14bc9a9544fbd4787b24c8295b5b6a
+  - enabled: 1
+    path: Assets/Scenes/Cena60informacaoComComida.unity
+    guid: 0e988722a9922ac479e17f92d2f31ed0
+  - enabled: 1
+    path: Assets/Scenes/Cena60informacaoSemComida.unity
+    guid: 79cf4bc543e99cd4eb8289d8cd595c15
+  - enabled: 1
+    path: Assets/Scenes/Cena62informacaoComComida.unity
+    guid: 1947a5c968bc3de4b95dc989bb9fa2fa
+  - enabled: 1
+    path: Assets/Scenes/Cena62informacaoSemComida.unity
+    guid: 33fb886660cb71c4da64138c47887a07
+  - enabled: 1
+    path: Assets/Scenes/Cena64informacaoComComida.unity
+    guid: 3c40793885621744c83c524b150ca286
+  - enabled: 1
+    path: Assets/Scenes/Cena64informacaoSemComida.unity
+    guid: b9a296e69bbeb1447ba5809f52322338
+  - enabled: 1
+    path: Assets/Scenes/Cena66.unity
+    guid: 1ea6306ed9d6e6b499cdc469991ca088
+  - enabled: 1
+    path: Assets/Scenes/Cena67.unity
+    guid: e7ecade4e67d3064caeeedf74efa4c4b
+  - enabled: 1
+    path: Assets/Scenes/Cena68.unity
+    guid: 364cfa60e1ce5b545b4df5969aacbbef
+  - enabled: 1
+    path: Assets/Scenes/Cena69.unity
+    guid: f55fb29684a9d334b8e3dfe3e8640992
+  - enabled: 1
+    path: Assets/Scenes/Cena70aguaHospital.unity
+    guid: d61b16d517de82841977c08f665e1d85
+  - enabled: 1
+    path: Assets/Scenes/Cena70aguaQuartel.unity
+    guid: 9c99063338ff5914caf1661c73f4d6fb
+  - enabled: 1
+    path: Assets/Scenes/Cena72.unity
+    guid: e17b1e8ec48b4e74fb1d8a1c1af8cc02
+  - enabled: 1
+    path: Assets/Scenes/Cena73.unity
+    guid: 8ae777af703eee941999296da21dc842
+  - enabled: 1
+    path: Assets/Scenes/Cena74.unity
+    guid: 1be6083d1c6a1c74db316e044cbc9854
+  - enabled: 1
+    path: Assets/Scenes/Cena75.unity
+    guid: f08b9c912f408384887bc3f72409ab5f
+  - enabled: 1
+    path: Assets/Scenes/Cena76.unity
+    guid: eb8c0a212bab78c409ea46668f949651
+  - enabled: 1
+    path: Assets/Scenes/Cena77.unity
+    guid: a3686026594a6b24e8d034cc2fa0c4f0
+  - enabled: 1
+    path: Assets/Scenes/Cena78.unity
+    guid: fa490d126e88fa9469a6ff5ecc19ca39
+  - enabled: 1
+    path: Assets/Scenes/Cena79.unity
+    guid: f1b37f57b513a914e880e189a75754ce
+  - enabled: 1
+    path: Assets/Scenes/Cena80.unity
+    guid: 69dd959bfcc9ec241b9f31db305ec051
+  - enabled: 1
+    path: Assets/Scenes/Cena81.unity
+    guid: 7be0e6159eafd5845ad36af3d68099cc
+  - enabled: 1
+    path: Assets/Scenes/Cena82.unity
+    guid: 9ab759faa0964dd4b966e5202646b50d
+  - enabled: 1
+    path: Assets/Scenes/Cena83.unity
+    guid: 4e15b1a6e82158448af6c2a95d40749d
+  - enabled: 1
+    path: Assets/Scenes/Cena84.unity
+    guid: 5419ef1c92d3f95498833f59b2bf1d7a
+  - enabled: 1
+    path: Assets/Scenes/Cena85.unity
+    guid: 90efc9016c305ac46a457c4485124d7a
+  - enabled: 1
+    path: Assets/Scenes/Cena86agua.unity
+    guid: f5e4f1e321e26ce4ea289e09c1a73637
+  - enabled: 1
+    path: Assets/Scenes/Cena87.unity
+    guid: 7eb3884dd0f67bb4fa388d899859251e
+  - enabled: 1
+    path: Assets/Scenes/Cena88.unity
+    guid: 08e46dd4484ded148ba69aee23863945
+  - enabled: 1
+    path: Assets/Scenes/Cena89.unity
+    guid: d0528d7e06eb5a34e960342bde1ccb8d
+  - enabled: 1
+    path: Assets/Scenes/Cena90.unity
+    guid: 0c3a9ec8f8597c7489814ff04b727b55
+  - enabled: 1
+    path: Assets/Scenes/Cena91agua.unity
+    guid: bf44d7185793287448eff6f41d4b8e87
+  - enabled: 1
+    path: Assets/Scenes/Cena91dinheiro.unity
+    guid: 276ca33f91041f542bcaa426e9588779
+  - enabled: 1
+    path: Assets/Scenes/Cena91informacaoComComida.unity
+    guid: df164287aa048654ca70e6d543f63607
+  - enabled: 1
+    path: Assets/Scenes/Cena91informacaoSemComida.unity
+    guid: e7da0a4f48686cc4e96cf57a8940e5d1
+  - enabled: 1
+    path: Assets/Scenes/Cena92agua.unity
+    guid: ac6819f47c666324f9098b0cd1170593
+  - enabled: 1
+    path: Assets/Scenes/Cena92dinheiro.unity
+    guid: fa0003238990755409847aa7c2472dc8
+  - enabled: 1
+    path: Assets/Scenes/Cena92informacaoComComida.unity
+    guid: d71bec53ebae0a246a7dfff7eeb7e078
+  - enabled: 1
+    path: Assets/Scenes/Cena92informacaoSemComida.unity
+    guid: 5dca0948296db93488f340b8b914814b
+  - enabled: 1
+    path: Assets/Scenes/Cena93agua.unity
+    guid: 06c96ef55768f3947abc6d49037b8ef6
+  - enabled: 1
+    path: Assets/Scenes/Cena93dinheiro.unity
+    guid: 7d0233148913d664c82eccfb6b064c1e
+  - enabled: 1
+    path: Assets/Scenes/Cena93informacaoComComida.unity
+    guid: 79851f15fd4f4b343a33c632f48150c9
+  - enabled: 1
+    path: Assets/Scenes/Cena93informacaoSemComida.unity
+    guid: 3946a63533de636449808b0858c2d2ca
+  - enabled: 1
+    path: Assets/Scenes/Cena94agua.unity
+    guid: 54124d22fafe51f4694d17f3a1567415
+  - enabled: 1
+    path: Assets/Scenes/Cena94dinheiro.unity
+    guid: 4d18eb043f072094da2dc620e71706c6
+  - enabled: 1
+    path: Assets/Scenes/Cena94informacaoComComida.unity
+    guid: 9531a2f008aca8245bef96406ef6c496
+  - enabled: 1
+    path: Assets/Scenes/Cena94informacaoSemComida.unity
+    guid: 7a5a90d46b6888846a6ed6f8dfad7d58
+  - enabled: 1
+    path: Assets/Scenes/Cena95.unity
+    guid: 35d6ac426ca34da40a18791975d0165a
+  - enabled: 1
+    path: Assets/Scenes/Cena96informacaoComComida.unity
+    guid: 774b1a148dd4bfc4cae15d3327212aa6
+  - enabled: 1
+    path: Assets/Scenes/Cena96informacaoSemComida.unity
+    guid: 77b5fe4e2926e4b4eab8949109f6be5e
+  - enabled: 1
+    path: Assets/Scenes/Cena99.unity
+    guid: 37b8f27ae9f725f4e91d56592cb9b79b
+  - enabled: 1
+    path: Assets/Scenes/Cena100informacaoComComida.unity
+    guid: 42214d9de4327004aa34c8accb0b49d2
+  - enabled: 1
+    path: Assets/Scenes/Cena100informacaoSemComida.unity
+    guid: ec8c1ce72a9a34943ae1e6ae62ddc9bb
+  - enabled: 1
+    path: Assets/Scenes/Cena102.unity
+    guid: fe0093194e12aa044a03758b5bc7836d
+  - enabled: 1
+    path: Assets/Scenes/Cena103agua.unity
+    guid: b689dd83e56a7eb4099b168ad2a76f7c
+  - enabled: 1
+    path: Assets/Scenes/Cena103informacaoComComida.unity
+    guid: 00fde4bb15f7a75439537297fec92419
+  - enabled: 1
+    path: Assets/Scenes/Cena104dinheiro.unity
+    guid: 4860efaf4f170f54aa560940cad7546a
+  - enabled: 1
+    path: Assets/Scenes/Cena104informacaoSemComida.unity
+    guid: cdd3462ac76b9c346bcda1c33d7d9e05
+  - enabled: 1
+    path: Assets/Scenes/Cena106agua.unity
+    guid: 3e61a987418f9434084d3a7bc1b8755e
+  - enabled: 1
+    path: Assets/Scenes/Cena106informacaoComComida.unity
+    guid: fff818b4cfc675041abfb6edba8252fc
+  - enabled: 1
+    path: Assets/Scenes/Cena107agua.unity
+    guid: bbb5e1830c2de6a46b4493f644be4444
+  - enabled: 1
+    path: Assets/Scenes/Cena107informacaoComComida.unity
+    guid: 6dcbcd25e5a1eca42b5e71fb681e2239
+  - enabled: 1
+    path: Assets/Scenes/Cena108agua.unity
+    guid: 16ba695d42d6a8f49a7ab3528e703272
+  - enabled: 1
+    path: Assets/Scenes/Cena109dinheiro.unity
+    guid: 92cf8428b41b33746a4832857d722f42
+  - enabled: 1
+    path: Assets/Scenes/Cena109informacaoSemComida.unity
+    guid: 8dec6228b0d9bd746b3a9b7bca5bb68f
+  - enabled: 1
+    path: Assets/Scenes/Cena112dinheiro.unity
+    guid: 4eb6c30cd5e29c14e82d90a26d0d20dd
+  - enabled: 1
+    path: Assets/Scenes/Cena112informacaoSemComida.unity
+    guid: 30280baa036fc81499965d710769609e
+  - enabled: 1
+    path: Assets/Scenes/Cena115informacaoComComida.unity
+    guid: 32a08e15de7f554499e8b01df1763750
+  - enabled: 1
+    path: Assets/Scenes/Cena117.unity
+    guid: 71ced5e29e120c04793a9e0c36d7feaf
+  - enabled: 1
+    path: Assets/Scenes/Cena118agua.unity
+    guid: b56dec66acaf1b743b11f6ea1fdaf3ae
+  - enabled: 1
+    path: Assets/Scenes/Cena118dinheiro.unity
+    guid: be0e36807ebc09b4ab3f136e8b0b1a06
+  - enabled: 1
+    path: Assets/Scenes/Cena118informacaoComComida.unity
+    guid: 912ae62b337f2584fae320b4a1b6fb5f
+  - enabled: 1
+    path: Assets/Scenes/Cena118informacaoSemComida.unity
+    guid: 6cc6cc31ab087fb4aa4dc8cd7dd246ae
+  - enabled: 1
+    path: Assets/Scenes/Cena120.unity
+    guid: ae0fbe63529f5474490d05e0577c0d63
+  - enabled: 1
+    path: Assets/Scenes/Cena123dinheiro.unity
+    guid: c21cdd3ce9fc89b40af5bf70120be5be
+  - enabled: 1
+    path: Assets/Scenes/Cena123informacaoSemComida.unity
+    guid: fe43670082d43a2438fe58c4cdeb464b
+  - enabled: 1
+    path: Assets/Scenes/Cena125informacaoComComida.unity
+    guid: f986b7c37af29de46a1df380408862f1
+  - enabled: 1
+    path: Assets/Scenes/Cena126informacaoSemComida.unity
+    guid: fe91cb21b6dccd24bb6ee19630be83cc
+  - enabled: 1
+    path: Assets/Scenes/Cena127informacaoComComida.unity
+    guid: e506ddad4916fc64782c2d99aa601046
+  - enabled: 1
+    path: Assets/Scenes/Cena128informacaoComComida.unity
+    guid: ff780651105443f4896fdb5735fa1dda
+  - enabled: 1
+    path: Assets/Scenes/Cena129dinheiro.unity
+    guid: e52d580bb9c2bd7459508994229b2d1f
+  - enabled: 1
+    path: Assets/Scenes/Cena136dinheiro.unity
+    guid: ff60b96737066544f90d90bf87a8183c
+  - enabled: 1
+    path: Assets/Scenes/Cena137informacaoSemComida.unity
+    guid: d67e8f74c1e846d448dec490980e4884
+  - enabled: 1
+    path: Assets/Scenes/Cena17.unity
+    guid: 1cecc59a0037c7a40820272d6d155bc2
+  - enabled: 1
+    path: Assets/Scenes/Cena18.unity
+    guid: e18bdaf123f35bc4abb6688906721a3d
+  - enabled: 1
+    path: Assets/Scenes/Cena19.unity
+    guid: 28dfc6fe0ea33bc449b38ef6eeffb3c2
+  - enabled: 1
+    path: Assets/Scenes/Cena20.unity
+    guid: f918f07bd5d89864ebd710e6495e87df
+  - enabled: 1
+    path: Assets/Scenes/Cena21.unity
+    guid: 0f5e1d36afb199e42b89bdde91b671d4
+  - enabled: 1
+    path: Assets/Scenes/Cena22.unity
+    guid: 9bca9b3ddc6859e4397af232d1b5009b
+  - enabled: 1
+    path: Assets/Scenes/Cena29agua.unity
+    guid: c371c16a21ca26b4ba529eeadba1685e
+  - enabled: 1
+    path: Assets/Scenes/Cena29dinheiro.unity
+    guid: 90f50d5fdb975a84c9abde3d7094206d
+  - enabled: 1
+    path: Assets/Scenes/Cena29informacao.unity
+    guid: 95f847db8070bb6438eb91a7dc974c3f
+  - enabled: 1
+    path: Assets/Scenes/Cena5.unity
+    guid: a72b943836f49ad4c971b1e1a8428797
+  - enabled: 1
+    path: Assets/Scenes/Cena11dinheiro.unity
+    guid: 54fc7b113ca8e0247b273f322e6301e1
+  - enabled: 1
+    path: Assets/Scenes/Cena11informacao.unity
+    guid: 98b342cfe6a88e04b903d8ebaa645ea2
+  - enabled: 1
+    path: Assets/Scenes/Cena12dinheiro.unity
+    guid: 9ee5006cceadeb948ac10682a532d784
+  - enabled: 1
+    path: Assets/Scenes/Cena12informacao.unity
+    guid: 5c116367eca27974c8c645b7575b76b8
+  - enabled: 1
+    path: Assets/Scenes/Cena6.unity
+    guid: 0bdf1f34763f70c4fa8d8aa988ffe017
+  - enabled: 1
+    path: Assets/Scenes/CenaEntrada1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cena7.unity
+    guid: a817e687c1bcb1b4baadb978b4e921fe
+  - enabled: 1
+    path: Assets/Scenes/Cena8.unity
+    guid: 37045ac2a44875e459c93f5eea17e9b3
+  - enabled: 1
+    path: Assets/Scenes/Cena9.unity
+    guid: 9b94cbfa93b0829449d81de379e98e00
+  - enabled: 1
+    path: Assets/Scenes/Cena13.unity
+    guid: 93956539a659c724281c69614dc75baf
+  - enabled: 1
+    path: Assets/Scenes/Cena14.unity
+    guid: ff442b744269ff442be69b40499a8773
+  - enabled: 1
+    path: Assets/Scenes/Cena15.unity
+    guid: 1d8a7ff65e2b7674a86f2705a368cee1
+  - enabled: 1
+    path: Assets/Scenes/Cena11agua.unity
+    guid: 4f1460748ada75e40a92ab946c17e9b5
+  - enabled: 1
+    path: Assets/Scenes/Cena12agua.unity
+    guid: 309c0fbe35d0c564997e465c4e319a1c
+  - enabled: 1
+    path: Assets/Scenes/CenaEntrada2.unity
+    guid: b715d4e6d3387214b96029dba880de5c
+  - enabled: 1
+    path: Assets/Scenes/CenaEntrada3.unity
+    guid: 9d344f9451038f54f9142c338687b5c2
+  m_configObjects: {}

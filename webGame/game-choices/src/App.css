@@ -2,6 +2,37 @@
   text-align: center;
 }
 
+body {
+  background-color: #282c34;
+}
+
+.text-area {
+  color: #fff;
+  padding: 35px 0;
+  margin: 0 auto;
+  text-align: justify;
+  width: 70%;
+  font-size: 25px;
+}
+.button-section {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  width: 500px;
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+  transition: 0.2s;
+  margin: 25px 35px;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
